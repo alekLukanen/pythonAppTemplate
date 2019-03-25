@@ -1,7 +1,7 @@
 # Application name here
 Description of application goes here...
 
-### Boot the Website
+## Build the Development Environment
 To create your python environment simply run
 ```
 make build_env
