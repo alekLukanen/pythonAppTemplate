@@ -1,0 +1,3 @@
+# Add your required packages to this file.
+# Here is an example package requirement.
+Django>=2.1.6
