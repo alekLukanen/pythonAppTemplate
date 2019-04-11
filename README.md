@@ -10,7 +10,7 @@ from this repositories base directory and then run
 ```
 source env/bin/activate
 ```
-as well. This will activate the virtual environment 
-created in the first line of code. All development should
-be done using this environment to ensure that results can
-be reproduced by other contributors.
+This will activate the virtual environment created
+in the first line of code. All development should
+performed using this environment to ensure that the
+results of your code can be reproduced by other contributors.
